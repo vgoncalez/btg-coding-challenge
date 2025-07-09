@@ -1,0 +1,14 @@
+D:\projects\trainning\BTG_CodingChallenge\BTG_CodingChallenge\bin\Debug\net8.0\BTG_CodingChallenge.exe
+D:\projects\trainning\BTG_CodingChallenge\BTG_CodingChallenge\bin\Debug\net8.0\BTG_CodingChallenge.deps.json
+D:\projects\trainning\BTG_CodingChallenge\BTG_CodingChallenge\bin\Debug\net8.0\BTG_CodingChallenge.runtimeconfig.json
+D:\projects\trainning\BTG_CodingChallenge\BTG_CodingChallenge\bin\Debug\net8.0\BTG_CodingChallenge.dll
+D:\projects\trainning\BTG_CodingChallenge\BTG_CodingChallenge\bin\Debug\net8.0\BTG_CodingChallenge.pdb
+D:\projects\trainning\BTG_CodingChallenge\BTG_CodingChallenge\obj\Debug\net8.0\BTG_CodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\trainning\BTG_CodingChallenge\BTG_CodingChallenge\obj\Debug\net8.0\BTG_CodingChallenge.AssemblyInfoInputs.cache
+D:\projects\trainning\BTG_CodingChallenge\BTG_CodingChallenge\obj\Debug\net8.0\BTG_CodingChallenge.AssemblyInfo.cs
+D:\projects\trainning\BTG_CodingChallenge\BTG_CodingChallenge\obj\Debug\net8.0\BTG_CodingChallenge.csproj.CoreCompileInputs.cache
+D:\projects\trainning\BTG_CodingChallenge\BTG_CodingChallenge\obj\Debug\net8.0\BTG_CodingChallenge.dll
+D:\projects\trainning\BTG_CodingChallenge\BTG_CodingChallenge\obj\Debug\net8.0\refint\BTG_CodingChallenge.dll
+D:\projects\trainning\BTG_CodingChallenge\BTG_CodingChallenge\obj\Debug\net8.0\BTG_CodingChallenge.pdb
+D:\projects\trainning\BTG_CodingChallenge\BTG_CodingChallenge\obj\Debug\net8.0\BTG_CodingChallenge.genruntimeconfig.cache
+D:\projects\trainning\BTG_CodingChallenge\BTG_CodingChallenge\obj\Debug\net8.0\ref\BTG_CodingChallenge.dll
